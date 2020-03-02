@@ -1,0 +1,14 @@
+lt30,high,no,fair,no
+lt30,high,no,excellent,no
+3140,high,no,fair,yes
+gt40,medium,no,fair,yes
+gt40,low,yes,fair,yes
+gt40,low,yes,excellent,no
+3140,low,yes,excellent,yes
+lt30,medium,no,fair,no
+lt30,low,yes,fair,yes
+gt40,medium,yes,fair,yes
+lt30,medium,yes,excellent,yes
+3140,medium,no,excellent,yes
+3140,high,yes,fair,yes
+gt40,medium,no,excellent,no
